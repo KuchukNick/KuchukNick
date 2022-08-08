@@ -3,7 +3,7 @@
    <h2> Welcome to my GitHub </h2>
     <ul>
       <dl>
-      <li> 👋 Hi, I’m @KuchukNick </li>
+      <li> 👋 <b>Hi, I’m @KuchukNick </b> </li>
         <dt></dt>
               ✍️ Some words about me: 
               <dd>I can say that I am one of that man who can set goals and do my <br>
