@@ -15,7 +15,7 @@
            keep putting one foot in front of the other and you'll reach the qoal)) </dd>
       <li> 📝 More information about me - <a href="https://drive.google.com/file/d/1BEWbRyuO3AgtcHT0qzP77W3vgs5VANZs/view?usp=sharing"> CV Nick Kuchuk.</a></li>
       <li>📫 Feel free to contact me ...</li>
-          <dd> <a href="mailto:KuchukNick@gmail.com"> Mail <br>
+          <dd> <a href="mailto:KuchukNick@gmail.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=&labelColor=708090&message=Mail%20me&color=EA4335"> <br>
           <a href="https://www.linkedin.com/in/nick-kuchuk"> LinkedIn </a> </dd>
         
         
