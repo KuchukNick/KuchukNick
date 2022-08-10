@@ -1,4 +1,13 @@
 <html>
+  <head>
+    <meta charset="utf-8">
+    <style>
+     div {
+      line-height: 1.5;
+      }
+    </style>
+  </head>  
+  
   <body>
    <h2> Welcome to my GitHub </h2>
     <ul>
@@ -21,13 +30,14 @@
           <a href="mailto:KuchukNick@gmail.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=&labelColor=A9A9A9&message=Mail%20me&color=EA4335"></a>
        <a href="https://www.linkedin.com/in/nick-kuchuk"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LinkedIn&label=&logoColor=0A66C2&labelColor=A9A9A9&message=LinkedIn&color=0A66C2"> </a>
        <a href="https://t.me/ProffesorNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=&logoColor=26A5E4&labelColor=A9A9A9&message=Telegram&color=26A5E4"> </a>
-  <p>.</p>
+ <div>
+   <p>dfsagsdffffffhhhdfffssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssshhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
      <h3 align="left"> 🛠 Skills and Tools</h3>
         <hr>
           <a href="mailto:KuchukNick@gmail.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=&labelColor=A9A9A9&message=Mail%20me&color=EA4335"></a>
        <a href="https://www.linkedin.com/in/nick-kuchuk"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LinkedIn&label=&logoColor=0A66C2&labelColor=A9A9A9&message=LinkedIn&color=0A66C2"> </a>
        <a href="https://t.me/ProffesorNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=&logoColor=26A5E4&labelColor=A9A9A9&message=Telegram&color=26A5E4"> </a>
-        
+     </div>   
         
         
    </body>
