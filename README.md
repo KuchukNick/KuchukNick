@@ -13,7 +13,7 @@
       <li> 👀 Now I am looking for Junior QA Engineer position. </li>
       <dd> I understand that is the difficult way but <br>
            keep putting one foot in front of the other and you'll reach the qoal)) </dd>
-      <li> 📝 More information about me - <a href="https://drive.google.com/file/d/1BEWbRyuO3AgtcHT0qzP77W3vgs5VANZs/view?usp=sharing"> CV Nick Kuchuk.</a></li>
+      <li> 📝 More information about me - <a href="https://drive.google.com/file/d/1BEWbRyuO3AgtcHT0qzP77W3vgs5VANZs/view?usp=sharing"> <strong> CV Nick Kuchuk.</strong></a></li>
       </dl>
     </ul>  
  <h3 align="left">📫 Feel free to contact me ...</h3>
