@@ -1,19 +1,8 @@
 <html>
-	<head>
-	<meta charset="utf-8">
-	<title>line-height</title>
-	<style>
-		p {
-		margin-top: 1.5em;
-		margin-bottom: 0.5em;
-		color: navy; /* Цвет текста */
-  		font-family: Arial, sans-serif; /* Рубленый шрифт */
-    		font-size: 90%; /* Размер текста */
-		}
-	</style>
-	</head>
- 
-  <body>
+	 <head>
+<meta charset="utf-8">
+ 	</head>
+   <body>
    <h2> Welcome to my GitHub </h2>
     <ul>
       <dl>
@@ -30,19 +19,18 @@
       <li> ?? More information about me - <a href="https://drive.google.com/file/d/1BEWbRyuO3AgtcHT0qzP77W3vgs5VANZs/view?usp=sharing"> <strong> CV Nick Kuchuk.</strong></a></li>
       </dl>
     </ul>  
-<p><strong> ?? Feel free to contact me ...</strong> </p>
+<h3>📫 Feel free to contact me ...</h3>
         <hr>
            <a href="mailto:KuchukNick@gmail.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=&labelColor=A9A9A9&message=Mail%20me&color=EA4335"></a>
        <a href="https://www.linkedin.com/in/nick-kuchuk"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LinkedIn&label=&logoColor=0A66C2&labelColor=A9A9A9&message=LinkedIn&color=0A66C2"> </a>
-      <a href="https://t.me/ProffesorNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=&logoColor=26A5E4&labelColor=A9A9A9&message=Telegram&color=26A5E4"> </a>
-    
-<h3 align="left"> <p> ?? Skills and Tools </p></h3>
-        <hr>
-          <a href="mailto:KuchukNick@gmail.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=&labelColor=A9A9A9&message=Mail%20me&color=EA4335"></a>
-       <a href="https://www.linkedin.com/in/nick-kuchuk"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LinkedIn&label=&logoColor=0A66C2&labelColor=A9A9A9&message=LinkedIn&color=0A66C2"> </a>
        <a href="https://t.me/ProffesorNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=&logoColor=26A5E4&labelColor=A9A9A9&message=Telegram&color=26A5E4"> </a>
-    
-   </body>
+	   <p align="right">. </p>
+	   <h3> 🛠 Skills and Tools</p></h3>
+        <hr>
+          <a href="https://github.com/KuchukNick/JSON"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Postman&label=&logoColorFF6C37&labelColor=A9A9A9&message=Postman&color=FF6C37"></a>
+       <a href="https://https://github.com/KuchukNick/SQL"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=MySQL&label=&logoColor=4479A1&labelColor=A9A9A9&message=MySQL&color=4479A1"> </a>
+       <a href="https://github.com/KuchukNick/Selenium"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Selenium&label=&logoColor=43B02A&labelColor=A9A9A9&message=Selenium&color=43B02A"> </a>
+       </body>
 </html>
 
 <!---
