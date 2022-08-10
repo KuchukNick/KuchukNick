@@ -14,7 +14,7 @@
       <dd> I understand that is the difficult way but <br>
            keep putting one foot in front of the other and you'll reach the qoal)) </dd>
       <li> 📝 More information about me - <a href="https://drive.google.com/file/d/1BEWbRyuO3AgtcHT0qzP77W3vgs5VANZs/view?usp=sharing"> CV Nick Kuchuk.</a></li>
-      <li><h6>📫 Feel free to contact me ...</h6></li>
+      <li>📫 Feel free to contact me ...</li>
         <hr>
           <dd> <a href="mailto:KuchukNick@gmail.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=&labelColor=A9A9A9&message=Mail%20me&color=EA4335"></a> <br>
           <a href="https://www.linkedin.com/in/nick-kuchuk"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LinkedIn&label=&logoColor=0A66C2&labelColor=A9A9A9&message=LinkedIn&color=0A66C2"> </a> </dd>
