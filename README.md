@@ -6,7 +6,7 @@
       <li> 👋 <b>Hi, I’m @KuchukNick </b> </li>
         <dt></dt>
               ✍️ Some words about me: 
-              <dd>I can say that I am one of that man who can set goals and do my <br>
+              <dd align="justify">I can say that I am one of that man who can set goals and do my <br>
                best to rich them. Being as head of department I understood that <br>
                every situation has at least two sides and you have to be very <br>
                 attentive to details to find Golden Mean that helps team to reach goal.</dd>
