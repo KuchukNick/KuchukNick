@@ -19,12 +19,13 @@
       <li> 📝 More information about me - <a href="https://drive.google.com/file/d/1BEWbRyuO3AgtcHT0qzP77W3vgs5VANZs/view?usp=sharing"> <strong> CV Nick Kuchuk.</strong></a></li>
       </dl>
     </ul>  
-<h3 align="rigft">📫 Feel free to contact me ...</h3>
+<h3>📫 Feel free to contact me ...</h3>
         <hr>
           <a href="mailto:KuchukNick@gmail.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=&labelColor=A9A9A9&message=Mail%20me&color=EA4335"></a>
        <a href="https://www.linkedin.com/in/nick-kuchuk"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LinkedIn&label=&logoColor=0A66C2&labelColor=A9A9A9&message=LinkedIn&color=0A66C2"> </a>
        <a href="https://t.me/ProffesorNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=&logoColor=26A5E4&labelColor=A9A9A9&message=Telegram&color=26A5E4"> </a>
-     <h3><p> 🛠 Skills and Tools</p></h3>
+	   <p align="right">. </p>
+     <h3> 🛠 Skills and Tools</p></h3>
         <hr>
           <a href="mailto:KuchukNick@gmail.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=&labelColor=A9A9A9&message=Mail%20me&color=EA4335"></a>
        <a href="https://www.linkedin.com/in/nick-kuchuk"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LinkedIn&label=&logoColor=0A66C2&labelColor=A9A9A9&message=LinkedIn&color=0A66C2"> </a>
