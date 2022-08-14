@@ -30,7 +30,7 @@
           <a href="https://github.com/KuchukNick/JSON"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Postman&label=&logoColorFF6C37&labelColor=A9A9A9&message=Postman&color=FF6C37"></a>
        <a href="https://https://github.com/KuchukNick/SQL"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=MySQL&label=&logoColor=4479A1&labelColor=A9A9A9&message=MySQL&color=4479A1"> </a>
        <a href="https://github.com/KuchukNick/Selenium"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Selenium&label=&logoColor=43B02A&labelColor=A9A9A9&message=Selenium&color=43B02A"> </a>
-	<a href="https://github.com/KuchukNick/Selenium"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Git&label=&logoColor=F05032&labelColor=A9A9A9&message=GIT&color=F05032"> </a>
+	<a href="https://github.com/KuchukNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Git&label=&logoColor=F05032&labelColor=A9A9A9&message=GIT&color=F05032"> </a>
        </body>
 </html>
 
