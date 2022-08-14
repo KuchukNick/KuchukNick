@@ -32,7 +32,7 @@
        <a href="https://github.com/KuchukNick/Selenium"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Selenium&label=&logoColor=43B02A&labelColor=A9A9A9&message=Selenium&color=43B02A"> </a>
 	<a href="https://github.com/KuchukNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Git&label=&logoColor=F05032&labelColor=A9A9A9&message=GIT&color=F05032"> </a> <br>
 	<a href="https://github.com/KuchukNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Jira&label=&logoColor=0052CC&labelColor=A9A9A9&message=GIT&color=0052CC">
-
+	<a href="https://github.com/KuchukNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Jira&label=&logoColor=0052CC&labelColor=A9A9A9&message=GIT&color=0052CC">
        </body>
 </html>
 
