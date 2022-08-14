@@ -31,9 +31,9 @@
        <a href="https://https://github.com/KuchukNick/SQL"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=MySQL&label=&logoColor=4479A1&labelColor=A9A9A9&message=MySQL&color=4479A1"> </a>
        <a href="https://github.com/KuchukNick/Selenium"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Selenium&label=&logoColor=43B02A&labelColor=A9A9A9&message=Selenium&color=43B02A"> </a>
 	<a href="https://github.com/KuchukNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Git&label=&logoColor=F05032&labelColor=A9A9A9&message=GIT&color=F05032"> </a> <br>
-	<a href="https://github.com/KuchukNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Jira&label=&logoColor=0052CC&labelColor=A9A9A9&message=GIT&color=0052CC">
-	<a href="https://github.com/KuchukNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=&label=&logoColor=0052CC&labelColor=A9A9A9&message=Testreail&color=06c42f">
-	<a href="https://github.com/KuchukNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Quora&label=&logoColor=201c9c&labelColor=A9A9A9&message=Qase&color=201c9c">
+	<a href="https://www.atlassian.com/ru/software/jira"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Jira&label=&logoColor=0052CC&labelColor=A9A9A9&message=JIRA&color=0052CC">
+	<a href="https://www.gurock.com/testrail/"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=&label=&logoColor=0052CC&labelColor=A9A9A9&message=Testreail&color=06c42f">
+	<a href="https://app.qase.io/"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Quora&label=&logoColor=201c9c&labelColor=A9A9A9&message=Qase&color=201c9c">
        </body>
 </html>
 
