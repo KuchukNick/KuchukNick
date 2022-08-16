@@ -33,7 +33,7 @@
 	<a href="https://github.com/KuchukNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&label=&logoColor=E34F26&labelColor=A9A9A9&message=HTML&color=E34F26"> </a>
 	<a href="https://app.qase.io/"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Quora&label=&logoColor=201c9c&labelColor=A9A9A9&message=Qase&color=201c9c"><br>
 	<a href="https://www.atlassian.com/ru/software/jira"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Jira&label=&logoColor=0052CC&labelColor=A9A9A9&message=JIRA&color=0052CC">
-	<a href="https://www.gurock.com/testrail/"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=&label=&logoColor=0052CC&labelColor=A9A9A9&message=Testreail&color=06c42f">
+	<a href="https://www.gurock.com/testrail/"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=&label=&logoColor=0052CC&labelColor=A9A9A9&message=Testrail&color=06c42f">
 	<a href="https://app.qase.io/"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Quora&label=&logoColor=201c9c&labelColor=A9A9A9&message=Qase&color=201c9c">
        </body>
 </html>
