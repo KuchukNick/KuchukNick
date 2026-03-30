@@ -20,14 +20,6 @@
        <a href="https://www.linkedin.com/in/nick-kuchuk"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LinkedIn&label=&logoColor=0A66C2&labelColor=A9A9A9&message=LinkedIn&color=0A66C2"> </a>
        <a href="https://t.me/ProffesorNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=&logoColor=26A5E4&labelColor=A9A9A9&message=Telegram&color=26A5E4"> </a>
 	   <p align="right">. </p>
-	   <h3> 🛠 Skills and Tools</p></h3>
-        <hr>
-          <a href="https://github.com/KuchukNick/JSON"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Postman&label=&logoColorFF6C37&labelColor=A9A9A9&message=Postman&color=FF6C37"></a>
-    <a href="https://github.com/KuchukNick/SQL"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=MySQL&label=&logoColor=4479A1&labelColor=A9A9A9&message=MySQL&color=4479A1"> </a>
-    <a href="https://github.com/KuchukNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&label=&logoColor=E34F26&labelColor=A9A9A9&message=HTML&color=E34F26"> </a>
-	<a href="https://www.atlassian.com/ru/software/jira"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Jira&label=&logoColor=0052CC&labelColor=A9A9A9&message=JIRA&color=0052CC">
-</body>
-</html>
 
 <!---
 KuchukNick/KuchukNick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
