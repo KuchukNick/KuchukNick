@@ -24,11 +24,6 @@
        <a href="https://www.linkedin.com/in/nick-kuchuk"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LinkedIn&label=&logoColor=0A66C2&labelColor=A9A9A9&message=LinkedIn&color=0A66C2"> </a>
        <a href="https://t.me/ProffesorNick"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=&logoColor=26A5E4&labelColor=A9A9A9&message=Telegram&color=26A5E4"> </a>
 	   <p align="right">. </p>
-	   <h3> 🛠 Skills and Tools</p></h3>
-        <hr>
-          <a href="https://github.com/KuchukNick/JSON"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Postman&label=&logoColorFF6C37&labelColor=A9A9A9&message=Postman&color=FF6C37"></a>
-       <a href="https://https://github.com/KuchukNick/SQL"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=MySQL&label=&logoColor=4479A1&labelColor=A9A9A9&message=MySQL&color=4479A1"> </a>
-       <a href="https://github.com/KuchukNick/Selenium"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Selenium&label=&logoColor=43B02A&labelColor=A9A9A9&message=Selenium&color=43B02A"> </a>
        </body>
 </html>
 
